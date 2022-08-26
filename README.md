@@ -16,6 +16,7 @@ Nema 17 - или аналогичный шаговый двигатель
 
 
 
+![Схема](https://github.com/luximal/Arduino-Coiling-Jig-Tool/blob/372a5fe2498e9faa3828045e0e4b7d9f2d9ae86b/VapeDevices.jpg)
 
 
 
